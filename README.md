@@ -1,16 +1,14 @@
-### Hi there 👋
+### Here is what iam working on👋
 
-<!--
-**quentin-abei/quentin-abei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Web3 courses
+- 🌱 I’m currently learning Solidity, React
+- 👯 I’m looking to build Dapps Including but not limited to
+-    https://nftwhitelist2.vercel.app/
+-    http://decisive-action.surge.sh/
+-    https://nft-starter-project.quentineth.repl.co/
+-    https://tender-yonath-e5f892.netlify.app/
+- 💬 Iam opened for entry level Job opportunities
+- 📫 How to reach me: twitter.com/quentin_web3
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
