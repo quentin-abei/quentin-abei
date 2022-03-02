@@ -6,6 +6,9 @@
 -    NFT WHITELISTING DAPP
 -    https://nftwhitelist2.vercel.app/
 
+     NFT Presale Mint & Public Mint
+     https://nftp-resale-and-public-mint.vercel.app/
+
      NFT
 -    http://decisive-action.surge.sh/
 
