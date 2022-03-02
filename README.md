@@ -6,7 +6,7 @@
 -    NFT WHITELISTING DAPP
 -    https://nftwhitelist2.vercel.app/
 
-     NFT Presale, Public Mint 
+     Presale Public Mint 
      https://nftp-resale-and-public-mint.vercel.app/
 
      NFT
