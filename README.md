@@ -9,6 +9,7 @@
      Presale Public Mint 
      
      https://nftp-resale-and-public-mint.vercel.app/
+     see collection here : https://testnets.opensea.io/assets/0x27Ce82B6ac64860FF3bB64B3Cdb9829B26FD0dd5/1
 
      NFT
      
