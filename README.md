@@ -8,6 +8,8 @@
 -
 -  PRE-PUBLIC SALE
 -   https://nftp-resale-and-public-mint.vercel.app/
+-   DAO Based on this NFT sale
+-   https://dao2.vercel.app/
 -  see collection here :
 -   https://testnets.opensea.io/assets/0x27Ce82B6ac64860FF3bB64B3Cdb9829B26FD0dd5/1
 -
