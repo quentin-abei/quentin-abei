@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Web3 courses
 - 👯 I’m currently building Dapps Including but not limited to
 - 
+-    A SIMPLE DECENTRALIZED EXCHANGE
+-    https://dex-simple.vercel.app/
+-    
 -    NFT WHITELISTING DAPP
 -     https://nftwhitelist2.vercel.app/
 -
